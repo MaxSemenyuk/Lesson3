@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    height: 300px;
+    width: 800px;
+    background: #112c3f;
+    position: absolute;
+}
+
+.insBox {
+    height: 100px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 250px;
+    left: 25%;
+}
+
+.smallBox {
+    background: #6a65e2;
+    height: 100px;
+    width: 25%;
+    border-radius: 5px;
+}
