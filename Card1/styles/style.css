@@ -9,7 +9,6 @@ body{
     align-items: center;
     height: 400px;
     width: 1000px;
-    display: flex;
     flex-direction: row;
 }
 .insBlocks{
